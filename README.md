@@ -1,1 +1,2 @@
-# ionic_With_Django_backend
+# ionic_With_Django_backend ----------- for the Native apps on native environment  the Backend is not working because the backend is not Hosted on Intenet rather it is on Our Local-- So only web version of backend is only working-- to Run in web backend please run Django project on Port 8000 and use the ionic App; Other feature Has no problem.
+ the backend is a Get JSON API-- which parses the https://www.ndlegis.gov/legislative-council  the website and gets the members list and sends it in Json format -- in Front end i'm using Ion List to display the Information.
