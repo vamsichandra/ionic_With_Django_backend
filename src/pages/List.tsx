@@ -191,27 +191,7 @@ import {
             </IonContent>
           </IonModal>
         </IonContent>
-  
-        {/* <IonModal ref={cardModal} trigger="card-modal" presentingElement={presentingElement!}>
-          <IonHeader>
-            <IonToolbar color={'success'}>
-              <IonButtons slot="start">
-                <IonButton onClick={() => cardModal.current?.dismiss()}>Close</IonButton>
-              </IonButtons>
-              <IonTitle>Card Modal</IonTitle>
-            </IonToolbar>
-          </IonHeader>
-          <IonContent>
-            <p>My card modal</p>
-          </IonContent>
-        </IonModal>
-  
-        <IonFab vertical="bottom" horizontal="end" slot="fixed">
-          <IonFabButton id="card-modal">
-            <IonIcon icon={addOutline} />
-          </IonFabButton>
-        </IonFab> */}
-      </IonPage>
+ </IonPage>
     );
   };
   
